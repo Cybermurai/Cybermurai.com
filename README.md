@@ -1,2 +1,4 @@
 # Cybermurai.com
-A portfolio page
+## A portfolio page is underconstruction
+
+<img src="https://intype.pl/cm/cm.gif" />
